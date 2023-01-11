@@ -250,7 +250,7 @@ void MeshField::Uninit()
 void MeshField::Update()
 {
 
-	//// メッシュでステージのぼこぼこの設定
+	//// メッシュでステージのぼこぼこの設定 
 	//for (int x = 0; x < FieldSize + 1; x++)
 	//{
 	//	for (int z = 0; z < FieldSize + 1; z++)
